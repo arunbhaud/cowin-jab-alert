@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-1. Any git client
-2. python 3.7
+1. git client
+2. python3
 ```
 
 ### Installing
