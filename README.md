@@ -17,7 +17,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-Go to any folder in your windows machine.
+Go to any folder in your windows machine and clone the project using any git client i.e. git bash
 
 ```
 git clone https://github.com/arunbhaud/cowin-jab-alert.git
