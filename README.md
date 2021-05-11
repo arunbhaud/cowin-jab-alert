@@ -23,7 +23,7 @@ Go to any folder in your windows machine.
 git clone https://github.com/arunbhaud/cowin-jab-alert.git
 ```
 
-now go to folder cowin-jab-alert and open the git client and install following dependencies using pip command
+now go to folder cowin-jab-alert and open the command prompt and install following dependencies using pip command
 
 ```
 pip install requests
